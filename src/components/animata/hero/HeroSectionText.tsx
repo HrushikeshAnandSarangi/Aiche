@@ -57,7 +57,7 @@ function generatePositions(count: number, container: Rect, avoid: Rect[], paddin
 
 const HeroSectionTextHover: React.FC<HeroCardProps> = ({
   className,
-  logoSrc = "/aiche-logo.svg",
+  logoSrc = "/Aiche-logo.svg",
   titleSpriteSources = [
     "https://res.cloudinary.com/dk6m1qejk/image/upload/v1756402971/0d04083a-fcf1-49fe-8a57-be7a3b343602_pjlzki.jpg",
     "https://res.cloudinary.com/dk6m1qejk/image/upload/v1756402973/63a1f884-c685-4789-91da-010c1e63d00e_s8zwkv.jpg",
