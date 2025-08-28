@@ -12,9 +12,9 @@ export interface TeamMember {
 export const teamMembers: TeamMember[] = [
   {
     id: "mentor-1",
-    name: "Dr. Rajesh Kumar",
-    position: "Faculty Mentor",
-    image: "/professional-faculty-mentor-chemical-engineering.png",
+    name: "Prof . Sujit Sen",
+    position: "Faculty Advisor",
+    image: "https://res.cloudinary.com/dk6m1qejk/image/upload/v1756414723/WhatsApp_Image_2025-08-29_at_02.26.26_d16b6803_l0vbci.jpg",
     bio: "Professor of Chemical Engineering with 15+ years of experience in process optimization and student mentorship.",
     linkedin: "https://linkedin.com/in/dr-rajesh-kumar",
     email: "rajesh.kumar@nitrkl.ac.in",
